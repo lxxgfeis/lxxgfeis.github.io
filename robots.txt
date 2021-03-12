@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://longfeis.me/sitemap.xml
+Sitemap: https://longfeis.me/sitemap.xml
