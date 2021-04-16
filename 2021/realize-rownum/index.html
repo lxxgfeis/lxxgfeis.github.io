@@ -8,7 +8,7 @@
 <span class=post-time>on <time datetime=2021-03-16 itemprop=datePublished>March 16, 2021</time></span>
 in
 <i class="iconfont icon-folder"></i>
-<span class=post-category><a href=https://longfeis.me/categories/%E5%BC%80%E6%9C%BA%E8%A6%81kuai%E6%8A%80%E6%9C%AF%E6%89%8D%E7%A1%AC/>开机要kuai技术才硬,</a></span>
+<span class=post-category><a href=https://longfeis.me/categories/coding-1024/>coding 1024,</a></span>
 <span class=post-word-count>2730 words</span></div></header><div class=post-content><br><h2 id=rownum伪列功能>rownum伪列功能</h2><p>伪列的含义就是说：实际上该列并不存在，但是你可以直接像正常的列一样使用它。rownum伪列是Oracle用来标记返回数据行号的。Oracle中没有limit，通过在where条件中使用rownum伪列，可以达到跟MySQL中limit类似的效果。</p><p>使用时需要注意以下几点：</p><ol><li>rownum的生成时机。跟rownum窗口函数类似，是在最后的order by之前生成。</li><li>where条件中的“rownum>正整数”将会导致select结果为空</li></ol><p>rownum最常见的应用是topN，即前几名的场景，但是要区分以下两种sql，其效果是完全不一样的。</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#75715e>-- 对t表的前N行数据按成绩排序
 </span><span style=color:#75715e></span><span style=color:#66d9ef>select</span> rownum, t.<span style=color:#f92672>*</span> <span style=color:#66d9ef>from</span> t <span style=color:#66d9ef>where</span> rownum <span style=color:#f92672>&lt;</span> N <span style=color:#66d9ef>order</span> <span style=color:#66d9ef>by</span> grade;
 <span style=color:#75715e>-- 取前N名
