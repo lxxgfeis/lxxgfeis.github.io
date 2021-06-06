@@ -1,12 +1,12 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Longfei's Blog on Longfei's Blog</title><link>https://longfeis.me/</link><description>Recent content in Longfei's Blog on Longfei's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 24 Apr 2021 01:16:50 +0800</lastBuildDate><atom:link href="https://longfeis.me/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://longfeis.me/posts/</link><pubDate>Sat, 24 Apr 2021 01:16:50 +0800</pubDate><guid>https://longfeis.me/posts/</guid><description/></item><item><title>About</title><link>https://longfeis.me/about/</link><pubDate>Fri, 25 Dec 2020 08:12:07 +0800</pubDate><guid>https://longfeis.me/about/</guid><description>&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sql" data-lang="sql"> _ ___
-(_ ) &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#e6db74">&amp;#39;___) _
-&lt;/span>&lt;span style="color:#e6db74"> | | _ ___ __ | (__ __ (_)
-&lt;/span>&lt;span style="color:#e6db74"> | | /&amp;#39;&lt;/span>_&lt;span style="color:#f92672">`&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">\&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#e6db74">&amp;#39; _ `\ /&amp;#39;&lt;/span>_ &lt;span style="color:#f92672">`&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">\&lt;/span>&lt;span style="color:#f92672">|&lt;/span> ,__)&lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#e6db74">&amp;#39;__`\| |
-&lt;/span>&lt;span style="color:#e6db74"> | | ( (_) )| ( ) |( (_) || | ( ___/| |
-&lt;/span>&lt;span style="color:#e6db74">(___)`\___/&amp;#39;&lt;/span>(_) (_)&lt;span style="color:#f92672">`&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">\&lt;/span>__ &lt;span style="color:#f92672">|&lt;/span>(_) &lt;span style="color:#f92672">`&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">\&lt;/span>____)(_)
-( )_) &lt;span style="color:#f92672">|&lt;/span>
-&lt;span style="color:#960050;background-color:#1e0010">\&lt;/span>___&lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#e6db74">&amp;#39;
-&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="我是谁">我是谁?&lt;/h1>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Longfei's Blog on Longfei's Blog</title><link>https://longfeis.me/</link><description>Recent content in Longfei's Blog on Longfei's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 24 Apr 2021 01:16:50 +0800</lastBuildDate><atom:link href="https://longfeis.me/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://longfeis.me/posts/</link><pubDate>Sat, 24 Apr 2021 01:16:50 +0800</pubDate><guid>https://longfeis.me/posts/</guid><description/></item><item><title>About</title><link>https://longfeis.me/about/</link><pubDate>Fri, 25 Dec 2020 08:12:07 +0800</pubDate><guid>https://longfeis.me/about/</guid><description>&lt;pre>&lt;code> _ ___
+(_ ) /'___) _
+| | _ ___ __ | (__ __ (_)
+| | /'_`\ /' _ `\ /'_ `\| ,__)/'__`\| |
+| | ( (_) )| ( ) |( (_) || | ( ___/| |
+(___)`\___/'(_) (_)`\__ |(_) `\____)(_)
+( )_) |
+\___/'
+&lt;/code>&lt;/pre>&lt;h1 id="我是谁">我是谁?&lt;/h1>
 &lt;p>我是&lt;em>&lt;strong>longfei&lt;/strong>&lt;/em>，是一名&lt;strong>程序员&lt;/strong>（发量还行，基本不穿格子衫），在&lt;strong>上海&lt;/strong>，目前正在做一些跟&lt;strong>数据库&lt;/strong>内核研发，菜鸟一枚，多多指教。&lt;/p>
 &lt;ul>
 &lt;li>本科：大连理工大学 &lt;em>软件学院 2015届&lt;/em>&lt;/li>
